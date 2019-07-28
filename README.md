@@ -4,3 +4,4 @@ The goal of this bot is to simulate a queue inside of your discord server. Shoul
 
 Changelog:
 07/28: Init README
+07/28: Added framework for bot and added some simple bot commands.
